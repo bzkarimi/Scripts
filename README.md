@@ -25,7 +25,7 @@ Useful scripts that can be used for various computational software
 
 ## HPC
 
-* Submission scripts for **VASP**, **FDMNES**, **LAMMPS**, and **MOLPRO** on super computers (HPC).
+* Submission scripts for **VASP**, **FDMNES**, and **MOLPRO** on super computers (HPC).
 
 ## PYTHON
 
