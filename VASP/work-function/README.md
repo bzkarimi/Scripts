@@ -10,7 +10,7 @@ Files
 - workfunction_v1.f, pre-2006 as vtotav.f written by Andreas Eichler
 - workfunction_v2.f, compatible with VASP5 output, edited by Juarez da Silva and Aron Walsh
 - workfunction, a mac binary of v2
-- LOCPOT.zip, a sample electrostatic potential
+- LOCPOT.zip, a sample electrostatic potential (not included here. just add your **LOCPOT**)
 
 Used in
 ------------
