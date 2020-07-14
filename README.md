@@ -13,6 +13,16 @@ Useful scripts that can be used for various computational software
 
 ## PGOPT
 
+* **extract-bader.sh**: Extracts bader charges after performing bader charge analysis using **PGOPT**.
+
+* **extract-displacement.sh**: Extracts displacements after performing frequency calculations using **PGOPT**.
+
+* **extract-energy.sh**: Extracts energy after performing single point calculations using **PGOPT**.
+
+* **extract-freq.sh**: Extracts frequencies after performing frequency calculations using **PGOPT**.
+
+* **md-oszi.sh**: Extracts **OSZICAR** (to get the information about temperature) after performing MD calculations using **PGOPT**.
+
 ## HPC
 
 * Submission scripts for **VASP**, **FDMNES**, **LAMMPS**, and **MOLPRO** on super computers (HPC).
