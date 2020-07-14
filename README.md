@@ -33,5 +33,5 @@ Useful scripts that can be used for various computational software
 
 * **md-analysis.py**: Calculates the evolution of bond distance and angle of interest for an MD trajcetory.
 
-* **boltmann.py**: Calculates the Boltmann distribution in an ensemble of clusters. 
+* **boltzmann.py**: Calculates the Boltzmann distribution in an ensemble of clusters. 
 
