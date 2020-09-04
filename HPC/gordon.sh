@@ -1,13 +1,12 @@
 #!/bin/bash
 
-#PBS -A 
+#PBS -A AFOSR35083MAV
 #PBS -l select=2:ncpus=32:mpiprocs=32
 #PBS -l walltime=24:00:00
 #PBS -q standard
 #PBS -N pt2sn4-al2o3 
 #PBS -j oe
-#PBS -M bzkarimi@g.ucla.edu
-#PBS -m be
+
 
 PBS_O_WORKDIR=/p/home/ana/borna/test
 export JOBID=`echo ${PBS_JOBID} | cut -f1 -d'.'`
