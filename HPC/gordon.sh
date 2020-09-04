@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#PBS -A AFOSR35083MAV
+#PBS -A 
 #PBS -l select=2:ncpus=32:mpiprocs=32
 #PBS -l walltime=24:00:00
 #PBS -q standard
